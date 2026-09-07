@@ -3,4 +3,5 @@ Hej git!
 Ny rad för git övning.
 En till rad för att testa om det blir fel.
 Testar en gång till
+Ny rad för ny branch
 # Ignorera Visual Studio-mappen .vs/
