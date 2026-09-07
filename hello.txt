@@ -1,2 +1,3 @@
 För git övning
 Hej git!
+Ny rad för git övning.
