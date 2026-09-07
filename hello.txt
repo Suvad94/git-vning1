@@ -1,4 +1,6 @@
-För git övning Hej från master
+För git övning Hej från
+För git övning Hej från feature-text
+Hej från både master och feature-text!
 Hej git!
 Ny rad för git övning.
 En till rad för att testa om det blir fel.
