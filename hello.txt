@@ -1,4 +1,4 @@
-För git övning
+För git övning Hej från master
 Hej git!
 Ny rad för git övning.
 En till rad för att testa om det blir fel.
