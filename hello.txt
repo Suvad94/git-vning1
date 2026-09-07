@@ -2,3 +2,5 @@ För git övning
 Hej git!
 Ny rad för git övning.
 En till rad för att testa om det blir fel.
+Testar en gång till
+# Ignorera Visual Studio-mappen.vs/
